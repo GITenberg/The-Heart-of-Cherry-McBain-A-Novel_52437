@@ -1,5 +1,8 @@
 _repo: The-Heart-of-Cherry-McBain-A-Novel_52437
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52437-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Durkin, Douglas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46858
     wikipedia: https://en.wikipedia.org/wiki/Douglas_Durkin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52437#The-Heart-of-Cherry-McBain-A-Novel
 gutenberg_issued: '2016-06-29'
 gutenberg_type: Text
 identifiers:
